@@ -1,6 +1,6 @@
 {
   "name": "react-text-scaler",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "React Component library for text scaling readability.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
